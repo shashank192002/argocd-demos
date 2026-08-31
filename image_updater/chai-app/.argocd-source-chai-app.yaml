@@ -1,3 +1,3 @@
 kustomize:
   images:
-  - shashank192002/chai-devops:v1.0.3
+  - shashank192002/chai-devops:v1.0.0
